@@ -78,6 +78,10 @@ section .contacto{
     
 }
 
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bs-primary);
+}
+
 /*ubicacion*/
 
 #ubicacion iframe{
